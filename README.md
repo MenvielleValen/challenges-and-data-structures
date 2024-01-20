@@ -1,4 +1,4 @@
-# Your Repository Name
+# challenges and data structures
 
 This repository contains implementations of data structures and solutions to challenges from HackerRank and LeetCode.
 
