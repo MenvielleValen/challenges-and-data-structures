@@ -1,4 +1,4 @@
-# challenges and data structures
+# Challenges and data structures
 
 This repository contains implementations of data structures and solutions to challenges from HackerRank and LeetCode.
 
